@@ -1,4 +1,4 @@
-![alt text](IMG_3002.HEIC)
+![IMG_3002](IMG_3002.HEIC)
 
 👋 Hi, I'm Noah @nlquantumm-source, a South Korean, doing research on materials applicable on Quantum Computer & CMOS quantum memory devices based on advanced spintronics.<br />
 👨‍💻 I'm self-taught in Mathematics, Physics & scientific computing.<br />
